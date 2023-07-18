@@ -10,8 +10,8 @@ The Spaceship Titanic was an interstellar passenger liner launched a month ago. 
 While rounding Alpha Centauri en route to its first destination—the torrid 55 Cancri E—the unwary Spaceship Titanic collided with a spacetime anomaly hidden within a dust cloud. Sadly, it met a similar fate as its namesake from 1000 years before. Though the ship stayed intact, almost half of the passengers were transported to an alternate dimension.
 
 Dataset link 
- - Train Data - https://github.com/NiranjanKadam7/Titanic_Survival_Prediction/blob/main/TitanicTrainingData.csv
- - Test Data - 
+ - Train Data - https://github.com/NiranjanKadam7/SpaceshipSurvivorPred/blob/main/SpaceshipTrainData.csv
+ - Test Data - https://github.com/NiranjanKadam7/SpaceshipSurvivorPred/blob/main/SpaceshipTestData.csv
 
 
 
